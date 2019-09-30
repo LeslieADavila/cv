@@ -1,0 +1,82 @@
+<html lang="en">
+    <head>        
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta property="description" content="Hi. I am a person who likes to do the things."/> 
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="leslie davila, cv, attempt, curriculum vitae">
+        <meta name="author" content="Leslie A Davila">
+        <title>Leslie A. Davila | Curriculum Vitae</title>
+    </head>
+<div class="vc_row element-row row vc_custom_1478727859541">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="wpb_wrapper">
+<div class="fw-section hb-fw-599b22a654ae9 without-border no-overlay light-style"
+        style="background-color:#7A87C4;
+            background-image:url(images/10167990_1109065722443784_1691447555232187920_n.jpg);
+            background-size:cover;
+            padding-top:40px;
+            padding-bottom:100px;">
+<div class="row fw-content-wrap">
+<div class="col-12 nbm">
+<div id="learning-automated-div" style="text-align: center; font-size: 48px; font-family: century; 
+                                        line-height: 52px; padding: 100px 5px 10px 5px;">
+<span style="color:#20294F;">Leslie A. Davila</span></div>
+<div style="text-align: center; font-size: 18px; font-family: century; 
+            line-height: 22px; padding: 0 5px 40px 5px;">
+<span style="color:#20294F;">Click below to navigate to:</span></div>
+<div style="text-align: center;">
+<table border="0" cellpadding="1" cellspacing="1" style="width:100%;">
+ <body>
+ <tr>
+ <td><a class="page-link" href="https://leslieadavila.github.io/education">
+  <span style="color:#20294F; font-family: century; font-size: 15px;">Education</span></a></td>
+ <td><a class="page-link" href="https://leslieadavila.github.io/grants">
+  <span style="color:#20294F; font-family: century; font-size: 15px;">Grants</span></a><td>
+ <td><a class="page-link" href="https://leslieadavila.github.io/interests">
+  <span style="color:#20294F; font-family: century; font-size: 15px;">Interests</span></a></td>
+ <td><a class="page-link" href="https://leslieadavila.github.io/positions">
+  <span style="color:#20294F; font-family: century; font-size: 15px;">Positions</span></a></td>
+ <td><a class="page-link" href="https://leslieadavila.github.io/presentations">
+  <span style="color:#20294F; font-family: century; font-size: 15px;">Presentations</span></a></td>
+ <td><a class="page-link" href="https://leslieadavila.github.io/publications">
+  <span style="color:#20294F; font-family: century; font-size: 15px;">Publications</span></a></td>
+ <td><a class="page-link" href="https://leslieadavila.github.io/service">
+  <span style="color:#20294F; font-family: century; font-size: 15px;">Service</span></a></td>
+ <td><a class="page-link" href="https://leslieadavila.github.io/teaching">
+  <span style="color:#20294F; font-family: century; font-size: 15px;">Teaching</span></a></td>
+ </tr> </body> </table> </div> </div> </div> </div> </div></div></div>
+
+    
+  <main class="page-content" aria-label="Content">
+            <marquee scrollamount="5">
+            <div class="wrapper">
+                <div class="home">
+                    <p><img src="images/me.jpg" alt="profile pic" style="width:250px;height:250px;">  <img src="images/Me2.jpg" alt="profile pic" style="width:250px;height:250px;">  <img src="images/Me3.jpg" alt="profile pic" style="width:250px;height:250px;">  <img src="images/Me4.jpg" alt="profile pic" style="width:250px;height:250px;"></p>
+            </marquee>
+                    <h2 id="info" style="color:#20294F; font-family: century;">Info</h2>
+                        <p style="font-family:century;">Leslie A. Davila</p>
+                        <p style="font-family:century;">Graduate Assistant</p>
+                        <p style="font-family:century;">Department of History; College of Liberal Arts | Texas A&M University</p>
+                        <p style="font-family:century;">4236 TAMU, 001D | College Station, TX 77843-4236</p>
+                        <p style="font-family:century;">ladavila@tamu.edu</p>
+                    <hr/>
+                    <h2 id="synopsis" style="color:#20294F; font-family: century;">Short Synopsis</h2>
+                        <p style="font-family:century;">My name is Leslie Davila. I am 23 and a graduate assistant at Texas A&M University. I am currently in my second year of the master's program. I study racial violence in the 19th century. All the thoughts reflected here are my own.</p>
+                        <p style="font-family:century;">She/her pronouns.</p>
+            </div>
+        </main>
+        <footer class="site-footer">
+            <div class="wrapper">
+                <h3 class="footer-heading" style="color:#20294F; font-family: century;">Find me!</h3>
+                <div class="footer-col-wrapper">
+                    <div class="footer-col footer-col-1"></div>
+                    <ul class="contact-list" style="font-family:century;"> 
+                        <li class="who-you-are">Leslie Davila</li>
+                        <li>ladavila@tamu.edu</li>
+                        <li>leslieaylin.2014@gmail.com</li>
+                        <li><a href="https://github.com/leslieadavila">Github</a></li>
+                        <li><a href="https://twitter.com/ThatChingona">Twitter</a>
+                    </ul>
+                </div>
+            </div>
+        </footer>
